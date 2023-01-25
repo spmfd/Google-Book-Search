@@ -9,11 +9,11 @@ This project was designed to practice putting everything we have learned into pr
 
 If you are not using the URL provided below, please make a copy of the repo to your drive. Open your terminal and run `npm run install`. After installation is complete run `npm run develop`. At which point the site will open up using your localhost port 3000.
 
-[Click this link to open page](https://charming-mousse-60f807.netlify.app/)
+[Click this link to open page](https://afternoon-island-25195.herokuapp.com/)
 
 ## Usage
 
-![Website](./src/components/pages/assets/website.png)
+![Website](./client/src/assets/website.png)
 
 ## Credits
 
